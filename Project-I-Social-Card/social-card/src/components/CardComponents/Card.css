@@ -1,1 +1,6 @@
 /* All styles for your Card Components live here */
+
+.card-container img {
+    width: 90%; 
+    height: 100%; 
+}
